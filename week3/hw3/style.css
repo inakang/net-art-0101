@@ -12,7 +12,7 @@
     border-style: solid;
     border-width: 1.5px;
     display: grid;
-    justify-items: flex-start;
+    justify-items: center;
     align-items: center;
     padding: 20px;
 }
@@ -22,7 +22,7 @@
     border-style: solid;
     border-width: 1.5px;
     display: grid;
-    justify-items: flex-start;
+    justify-items: center;
     align-items: center;
     padding: 20px;
 }
@@ -32,8 +32,8 @@ body {
 }
 
 .dot {
-    height: 18px;
-    width: 18px;
+    height: 16px;
+    width: 16px;
     background-color: aqua;
     border-style: solid;
     border-width: 1.5px;
