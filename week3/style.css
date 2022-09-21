@@ -1,0 +1,14 @@
+body{
+    background: white;
+}
+
+img {
+    display: inline-block;
+    width: 200px;
+    animation: doggo-move 5s infinite;
+}
+
+@keyframes doggo-move{
+    0% 100%{transform: translateX(-500px);}
+    50%{transform: translateX(100vw);}
+}
